@@ -302,7 +302,7 @@ relate n to d across R2;
 
 d.speed = 255;
 
-n.retreat_duration = 3.5;
+n.retreat_duration = 1;
 n.target_duration = 1.28;
 n.last_turn = Orientation::left;
 
